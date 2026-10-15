@@ -1,0 +1,6 @@
+﻿order_id,order_date,customer_id,amount,status,source_file,source_row,reason
+O002,2026-10-01,C002,200000,pending,orders_2026-10-01.csv,3,Trạng thái chưa hoàn thành
+O003,2026-10-01,C003,-50000,completed,orders_2026-10-01.csv,4,Số tiền phải lớn hơn 0
+O001,2026-10-01,C001,100000,completed,orders_2026-10-02.csv,3,Trùng mã đơn
+O006,2026-10-02,C004,,completed,orders_2026-10-02.csv,4,Số tiền trống hoặc không phải số nguyên
+O007,2026-10-02,C005,abc,completed,orders_2026-10-02.csv,5,Số tiền trống hoặc không phải số nguyên

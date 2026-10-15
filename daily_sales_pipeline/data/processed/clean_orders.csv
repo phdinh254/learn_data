@@ -1,0 +1,5 @@
+﻿order_id,order_date,customer_id,amount,status,source_file,source_row
+O001,2026-10-01,C001,100000,completed,orders_2026-10-01.csv,2
+O004,2026-10-01,C001,150000,completed,orders_2026-10-01.csv,5
+O005,2026-10-02,C002,250000,completed,orders_2026-10-02.csv,2
+O008,2026-10-02,C003,300000,completed,orders_2026-10-02.csv,6
